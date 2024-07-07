@@ -44,9 +44,7 @@ cd grind-grow</code></pre>
         <li>Open your browser and navigate to <code>http://localhost:3000</code>.</li>
     </ol>
 
-    <p>Explore the landing page to learn about the gym's features, services, and membership plans. 
-    
-    <h2>Contributing</h2>
-    <p>Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.</p>
+<p>Explore the landing page to learn about the gym's features, services, and membership plans. 
+
 
 
