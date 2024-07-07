@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "FoundersGroteskCondensed";
+  src: url("../src/assets/fonts/FoundersGrotesk-Semibold.ttf");
+}
+
+@font-face {
+  font-family: "NueueMontreal";
+  src: url("../src/assets/fonts/NeueMontreal-Regular.ttf");
+}
+
+* {
+  font-family: "NueueMontreal", sans-serif;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+/* html,
+body {
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+} */
+
+/* @media screen and (max-width: 480px) {
+  html,
+  body {
+    font-size: 16px;
+  }
+} */
