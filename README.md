@@ -1,4 +1,4 @@
-<body>
+
     <h1>Grind & Grow</h1>
     <p>Grind & Grow is a gym landing page designed to attract and engage potential gym members. The landing page highlights the gym's features, services, and membership plans, providing a seamless and interactive user experience.</p>
     
@@ -51,5 +51,4 @@ cd grind-grow</code></pre>
     <h2>Contributing</h2>
     <p>Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.</p>
 
-</body>
 
